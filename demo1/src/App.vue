@@ -2,7 +2,7 @@
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <div class="qqq">
-      88aaaaaaaaaaaaaaa
+      88aaaassss
     </div>
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
